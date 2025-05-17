@@ -1,6 +1,7 @@
 import { useEffect, useRef } from "react";
 
 import { createNoise3D } from "simplex-noise";
+import { useState } from "react";
 
 
 const ParticleBackground = () => {
