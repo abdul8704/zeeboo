@@ -1,7 +1,7 @@
 import  { useEffect, useState } from "react";
 
 const TYPING_SPEED = 100; // milliseconds per character
-const message = "YYou're reallyyy one of the bestestest person i have ever shared my days with(i really mean it). you're the only person i was able to open up and rant out(i felt alive)... i truly really sincerely, believe that you deserve aaaaallll the love in the world...\n i hope this year has your eyes sparkling all the time... \nWishing you a veryyyyyyy Happy Birthday!!"
+const message = "YYou're reallyyy one of the bestestest person i have ever shared my days with(i really mean it). you're the only person i was able to open up and rant out(i felt alive)... i truly really sincerely, believe that you deserve aaaaallll the love in the world...\n i hope this year has your eyes sparkling all the time... \nWishing you a veryyyyyyy Happy 0000010011th Birthday!!"
 const centerStyle = {
     display: "flex",
     justifyContent: "center",
